@@ -36,6 +36,7 @@ nav{
     background-color: #03a9f4a6;
     position: fixed;
     right: 0;
+    z-index: 100;
 }
 .title{
     position: absolute;
